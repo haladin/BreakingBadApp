@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Breaking Bad Characters</string>
+    <string name="msg_empty">No available data.</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_filter_all">All</string>
+    <string name="menu_filter_season1">Season 1</string>
+    <string name="menu_filter_season2">Season 2</string>
+    <string name="menu_filter_season3">Season 3</string>
+    <string name="menu_filter_season4">Season 4</string>
+    <string name="menu_filter_season5">Season 5</string>
+    <string name="searchText">Search</string>
+</resources>
